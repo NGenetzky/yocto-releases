@@ -121,5 +121,11 @@ Dockerfile         text
 *.rtf annex.largefiles=anything
 *.wmv annex.largefiles=anything
 
+# Checksums
+*.md5sum annex.largefiles=nothing
+*.sha256sum annex.largefiles=nothing
+
 ## git-annex
 ################################################################################
+
+**/.git* annex.largefiles=nothing
