@@ -125,6 +125,9 @@ Dockerfile         text
 *.md5sum annex.largefiles=nothing
 *.sha256sum annex.largefiles=nothing
 
+# Yocto specific
+*.testdata.json annex.largefiles=anything
+
 ## git-annex
 ################################################################################
 
