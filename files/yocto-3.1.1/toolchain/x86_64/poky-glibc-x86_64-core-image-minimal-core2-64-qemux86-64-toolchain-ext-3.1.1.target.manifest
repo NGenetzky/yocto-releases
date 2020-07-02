@@ -1,0 +1,12 @@
+gcc-cross-x86_64 x86_64-poky-linux 9.3.0
+gdb-cross-x86_64 x86_64-poky-linux 9.1
+binutils-cross-x86_64 x86_64-poky-linux 2.34
+glibc core2-64-poky-linux 2.31+gitAUTOINC+71f2b249a2
+linux-libc-headers core2-64-poky-linux 5.4
+gcc-runtime core2-64-poky-linux 9.3.0
+meta-extsdk-toolchain core2-64-poky-linux 1.0
+libgcc core2-64-poky-linux 9.3.0
+container-image-testpkg core2-64-poky-linux 1.0
+wic-tools core2-64-poky-linux 1.0
+libgcc-initial core2-64-poky-linux 9.3.0
+libgfortran core2-64-poky-linux 9.3.0
