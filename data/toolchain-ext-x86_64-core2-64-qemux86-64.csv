@@ -1,0 +1,9 @@
+version,relpath
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-minimal-core2-64-qemux86-64-toolchain-ext-3.1.1.host.manifest
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-minimal-core2-64-qemux86-64-toolchain-ext-3.1.1.sh
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-minimal-core2-64-qemux86-64-toolchain-ext-3.1.1.target.manifest
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-minimal-core2-64-qemux86-64-toolchain-ext-3.1.1.testdata.json
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-sato-core2-64-qemux86-64-toolchain-ext-3.1.1.host.manifest
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-sato-core2-64-qemux86-64-toolchain-ext-3.1.1.sh
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-sato-core2-64-qemux86-64-toolchain-ext-3.1.1.target.manifest
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-sato-core2-64-qemux86-64-toolchain-ext-3.1.1.testdata.json
