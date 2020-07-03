@@ -1,0 +1,5 @@
+version,relpath
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-sato-aarch64-qemuarm64-toolchain-3.1.1.host.manifest
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-sato-aarch64-qemuarm64-toolchain-3.1.1.sh
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-sato-aarch64-qemuarm64-toolchain-3.1.1.testdata.json
+3.1.1,./toolchain/x86_64/poky-glibc-x86_64-core-image-sato-aarch64-qemuarm64-toolchain-3.1.1.target.manifest
